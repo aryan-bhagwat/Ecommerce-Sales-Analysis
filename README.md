@@ -4,7 +4,7 @@
 This project analyzes sales data from an e-commerce company to uncover insights, identify trends, and deliver interactive dashboards using Excel and Power BI.
 
 ## Dataset
-The analysis uses [describe your dataset source here] containing e-commerce sales transactions with the following structure:
+The analysis uses a dataset containing 5,000 e-commerce sales transactions with the following structure:
 - OrderID
 - OrderDate
 - CustomerID
